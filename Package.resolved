@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/powderhouse/aws-sdk-swift-core.git",
         "state": {
           "branch": null,
-          "revision": "48ebc3cc6dbadfbc1b48beff9d16eb17feba5b86",
-          "version": "0.0.2"
+          "revision": "0bf47334be193884b0900e845ce6c721589c8f87",
+          "version": "0.0.3"
         }
       },
       {
